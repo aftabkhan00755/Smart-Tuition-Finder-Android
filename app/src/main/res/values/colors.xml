@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#160f29</color>
+    <color name="colorPrimaryDark">#160f29</color>
+    <color name="colorAccent">#160f29</color>
+    <color name="swipebg">#cc3333</color>
+    <color name="toolbartextcolor">#ffffff</color>
+    <color name="lineargreycolor">#FFBEBABA</color>
+    <color name="white">#ffffff</color>
+
+
+</resources>
